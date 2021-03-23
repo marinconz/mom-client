@@ -1,0 +1,26 @@
+.caja{
+  display: flex;
+  justify-content: center;
+  width: 250px;
+  height: 300px;
+  background-color: beige;
+}
+
+.username{
+  position: relative;
+  justify-content: center;
+  padding: 10px;
+}
+
+.password{
+  padding: 10px;
+}
+
+.h2{
+  text-align: center;
+}
+
+.logButton{
+  position: relative;
+  justify-content: center;
+}
